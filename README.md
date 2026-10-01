@@ -1,10 +1,11 @@
 # 👋 Hello, I’m Kellen
 
-I’m a U.S. Army veteran and a full-time Computer Science student passionate about building things that matter. My current focus is on developing my problem-solving and design skills, with interests in video game development, physics-based simulations/algorithms, application development, and applied problem-solving.
+I’m a U.S. Army veteran and a full-time Computer Science student passionate about building things that matter. I'm currently focused on building my problem-solving and design skills, with interests in video game development, physics-based simulations/algorithms, application development, and applied problem-solving.
 
 ## ⚙️ Current Interests
 
-- Web application development (Stack - Postgres, Express, React, Node)
+- Web application development (Stack: Postgres, Express, React, Node)
+- Linux Kernel Development (Driver development and exploring the Kernel architecture)
 - Building desktop apps using Java (Swing/JavaFX)
 - Developing tools that solve everyday problems
 - Exploring the intersection of physics and code (like simulation and automation)
@@ -12,10 +13,10 @@ I’m a U.S. Army veteran and a full-time Computer Science student passionate ab
 
 ## 🌱 Currently Learning
 
-- Linear Algebra
-- Advanced data structures and algorithms
-- Git, collaborative workflows, CI/CD principles
-- Algorithmic problem solving, recognizing patterns to apply problem-solving techniques
+- Machine Learning
+- Computer Systems and Architecture
+- Databases and Information Systems
+- Technical Interpersonal Communication (Code Review, Peer Review, Technical Presentation/Defense)
 
 ## 🧠 What Drives Me
 
@@ -26,4 +27,4 @@ I’m a U.S. Army veteran and a full-time Computer Science student passionate ab
 
 - Build software that solves real-world problems
 - Contribute to open-source projects focused on accessibility, education, or sustainability
-- Complete my BSCS degree and transition into a professional software engineering, game development, reasearch role
+- Complete my BSCS degree and transition into a professional software engineering, game development, or research role
